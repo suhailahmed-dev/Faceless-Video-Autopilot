@@ -1,0 +1,68 @@
+{
+  "enabled": true,
+  "white_label_brand": "APEX MEDIA HQ",
+  "timezone": "PKT (UTC+5)",
+  "peak_windows": {
+    "youtube": [
+      {
+        "time": "13:30",
+        "slot": "Lunch Break Quick Hook",
+        "traffic": "Peak Mobile"
+      },
+      {
+        "time": "18:30",
+        "slot": "Evening Commute Psychology",
+        "traffic": "High Retention"
+      },
+      {
+        "time": "21:45",
+        "slot": "Night Relax Stoic Story",
+        "traffic": "Maximum Watch-Time"
+      }
+    ],
+    "tiktok": [
+      {
+        "time": "14:00",
+        "slot": "Afternoon FYP Wave",
+        "traffic": "Youth Traffic"
+      },
+      {
+        "time": "19:00",
+        "slot": "Evening Rush",
+        "traffic": "High Engagement"
+      },
+      {
+        "time": "22:30",
+        "slot": "Late-Night Viral Scroll",
+        "traffic": "Maximum Algorithm Velocity"
+      }
+    ],
+    "instagram": [
+      {
+        "time": "12:45",
+        "slot": "Midday Aesthetic Reel",
+        "traffic": "Active Saves"
+      },
+      {
+        "time": "20:15",
+        "slot": "Prime Social Hour",
+        "traffic": "High Shares"
+      }
+    ],
+    "facebook": [
+      {
+        "time": "15:00",
+        "slot": "Afternoon Tea Break",
+        "traffic": "Family Browsing"
+      },
+      {
+        "time": "21:00",
+        "slot": "Family Evening Relaxation",
+        "traffic": "Maximum Viral Shares"
+      }
+    ]
+  },
+  "nightly_prep_time": "23:45",
+  "last_nightly_prep": "",
+  "auto_publish_enabled": true
+}

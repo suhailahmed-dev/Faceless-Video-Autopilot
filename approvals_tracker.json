@@ -1,0 +1,26 @@
+{
+  "video_1_How_High-Value_People_Speak_3_Rules": {
+    "status": "published",
+    "platforms": [
+      "youtube",
+      "tiktok"
+    ],
+    "last_updated": "2026-09-25 11:56 PM",
+    "urls": {
+      "youtube": "https://youtu.be/c2hXRx36PHQ",
+      "tiktok": "Live on TikTok (Everyone / Public)"
+    }
+  },
+  "video_2_Rule_1_of_Stoicism_The_Power_of_Absolute": {
+    "status": "published",
+    "platforms": [
+      "youtube",
+      "tiktok"
+    ],
+    "last_updated": "2026-09-25 10:28 PM",
+    "urls": {
+      "youtube": "https://youtu.be/Y3xZmZKuiRE",
+      "tiktok": "Live on TikTok"
+    }
+  }
+}

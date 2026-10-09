@@ -1,0 +1,32 @@
+# Environment & Secrets
+.env
+client_secrets.json
+youtube_token.json
+
+# Session storage & cookies
+.*session*
+.chrome*
+.tiktok*
+.meta*
+.social*
+
+# Media & Temp renders
+output_videos/
+temp/
+*.mp3
+*.mp4
+*.wav
+
+# Binaries
+cloudflared.exe
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Diagnostics & temporary test dumps
+test_*.png
+test_*.jpg
+err_*.png
+tiktok_error_*.png
+tiktok_diagnostic.png

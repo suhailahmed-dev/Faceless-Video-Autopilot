@@ -1,0 +1,65 @@
+========================================================
+🎬 CAPCUT ASSEMBLY GUIDE — EPISODE 1: The Static in the Woods
+========================================================
+HOW TO ASSEMBLE IN CAPCUT IN 3 MINUTES:
+1. Open CapCut, drag and drop the 4 batch videos in order:
+   - StoryA_Ep01_Batch1.mp4 (Scenes 1 to 4)
+   - StoryA_Ep01_Batch2.mp4 (Scenes 5 to 8)
+   - StoryA_Ep01_Batch3.mp4 (Scenes 9 to 12)
+   - StoryA_Ep01_Batch4.mp4 (Scenes 13 to 15)
+2. Add smooth Cut / Glitch / Dissolve transitions between batches.
+3. Copy-paste the Roman Urdu subtitles below onto the video timeline.
+4. Export as ONE single video named: StoryA_Ep01_FINAL.mp4
+5. Drop StoryA_Ep01_FINAL.mp4 into the '/Ready/' folder!
+========================================================
+📜 LINE-BY-LINE ROMAN URDU SUBTITLES:
+========================================================
+Scene 01 [Deep in the misty Whispering Woods, fourteen-year-old Suhail heard a sound that should not exist.]:
+   ➤ SUBTITLE: Khamoosh jungle ke beech, choudah saala Suhail ko aik aisi aawaz sunayi di jo nahi honi chahiye thi.
+
+Scene 02 [His thirteen-year-old sister Sophia pointed her flashlight at the damp ground beneath an ancient twisted oak tree.]:
+   ➤ SUBTITLE: Uski behan Sophia ne puranay darakht ke neeche torch ki roshni daali.
+
+Scene 03 [Half-buried in the wet soil was an antique copper radio, glowing with faint amber vacuum tubes.]:
+   ➤ SUBTITLE: Mitti mein aadhi dabi hui purani taanbay ki radio thi, jo halki amber roshni se chamak rahi thi.
+
+Scene 04 [Suhail reached down and brushed the cold dirt away. Suddenly, the dial spun by itself.]:
+   ➤ SUBTITLE: Suhail ne mitti saaf ki, to achanak radio ka knob khud ba khud ghoomne laga.
+
+Scene 05 [Static hissed through the speaker, followed by a low, mechanical hum that made the pine needles vibrate.]:
+   ➤ SUBTITLE: Speaker se static ki aawaz aayi, aur zameen par paray darakht ke patte kaanpne lagay.
+
+Scene 06 [Sophia checked her silver compass necklace. The needle was spinning furiously counterclockwise.]:
+   ➤ SUBTITLE: Sophia ne apna silver compass dekha, uski sui tezi se ulti simt ghoom rahi thi.
+
+Scene 07 ['Suhail, don't touch it,' she whispered. But the radio crackled and a distorted voice cut through.]:
+   ➤ SUBTITLE: 'Suhail, isko haath mat lagao,' Sophia boli. Magar radio se aik ajeeb aawaz aane lagi.
+
+Scene 08 ['Frequency ninety-four point seven,' the voice whispered. 'Do not look up at the sky.']:
+   ➤ SUBTITLE: 'Frequency 94.7,' aawaz ne kaha. 'Aasman ki taraf mat dekhna.'
+
+Scene 09 [Both kids instantly looked up into the canopy of dark pines.]:
+   ➤ SUBTITLE: Dono bachon ne foran ooper ghane darakhton ki taraf dekha.
+
+Scene 10 [The clouds were swirling in a glowing violet vortex, completely silent and impossible.]:
+   ➤ SUBTITLE: Badalon ke darmiyan aik baingani roshni ka bhanwar tezi se ghoom raha tha.
+
+Scene 11 [The trees around them began to cast two shadows instead of one.]:
+   ➤ SUBTITLE: Unke gird darakhton ke aik ke bajaye do do saaye banne lage.
+
+Scene 12 ['We need to run back to the town right now,' Sophia urged, gripping her compass tightly.]:
+   ➤ SUBTITLE: 'Humein abhi wapas sheher bhagna hoga,' Sophia ne ghabra kar kaha.
+
+Scene 13 [Suhail grabbed the copper radio by its handle. It was burning cold like ice.]:
+   ➤ SUBTITLE: Suhail ne radio uthaya, to wo baraf ki tarah thandi thi.
+
+Scene 14 [Suddenly, the radio speaker screamed: 'Suhail! Sophia! It has found your coordinates!']:
+   ➤ SUBTITLE: Achanak radio se cheekh aayi: 'Suhail! Sophia! Usne tumhara pata dhoondh liya hai!'
+
+Scene 15 [In the mist ahead, a towering shadowy silhouette stepped onto the forest path. Subscribe for Episode Two!]:
+   ➤ SUBTITLE: Dhundh ke beech aik azeem saaya raste par aa khara hua... Agli qist ke liye subscribe karein!
+
+========================================================
+📌 END-CARD CTA (ADD AT 2:20 - 2:30):
+   'Watch Full Story — Subscribe & Follow For Episode 2!'
+========================================================

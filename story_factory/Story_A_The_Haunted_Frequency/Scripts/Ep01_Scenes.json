@@ -1,0 +1,190 @@
+{
+  "story_id": "Story_A",
+  "story_title": "The Haunted Frequency",
+  "episode": 1,
+  "episode_title": "The Static in the Woods",
+  "total_scenes": 15,
+  "total_duration_sec": 150,
+  "batches": [
+    {
+      "batch": 1,
+      "scenes": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "duration": 40,
+      "filename": "StoryA_Ep01_Batch1.mp4"
+    },
+    {
+      "batch": 2,
+      "scenes": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "duration": 40,
+      "filename": "StoryA_Ep01_Batch2.mp4"
+    },
+    {
+      "batch": 3,
+      "scenes": [
+        9,
+        10,
+        11,
+        12
+      ],
+      "duration": 40,
+      "filename": "StoryA_Ep01_Batch3.mp4"
+    },
+    {
+      "batch": 4,
+      "scenes": [
+        13,
+        14,
+        15
+      ],
+      "duration": 30,
+      "filename": "StoryA_Ep01_Batch4.mp4"
+    }
+  ],
+  "scenes": [
+    {
+      "scene": 1,
+      "batch": 1,
+      "duration": 10,
+      "spoken_english": "Deep in the misty Whispering Woods, fourteen-year-old Suhail heard a sound that should not exist.",
+      "roman_urdu": "Khamoosh jungle ke beech, choudah saala Suhail ko aik aisi aawaz sunayi di jo nahi honi chahiye thi.",
+      "visual_prompt": "3D animation, Suhail (14yo boy with messy dark hair, blue eyes, brown leather jacket) walking cautiously through misty pine forest with glowing fireflies, 3D stylized Pixar and DreamWorks animation style, cinematic Octane render, Unreal Engine 5, volumetric fog, dramatic rim lighting, vibrant rich colors with dark atmospheric shadows, kid-friendly spooky sci-fi mystery aesthetic, photorealistic textures, 8k vertical portrait",
+      "mood": "Mysterious"
+    },
+    {
+      "scene": 2,
+      "batch": 1,
+      "duration": 10,
+      "spoken_english": "His thirteen-year-old sister Sophia pointed her flashlight at the damp ground beneath an ancient twisted oak tree.",
+      "roman_urdu": "Uski behan Sophia ne puranay darakht ke neeche torch ki roshni daali.",
+      "visual_prompt": "3D animation, Sophia (13yo girl with dark braids, hazel eyes, green hoodie) shining a bright flashlight onto muddy ground, 3D stylized Pixar and DreamWorks animation style, cinematic Octane render, Unreal Engine 5, volumetric fog, dramatic rim lighting, vibrant rich colors with dark atmospheric shadows, kid-friendly spooky sci-fi mystery aesthetic, photorealistic textures, 8k vertical portrait",
+      "mood": "Curiosity"
+    },
+    {
+      "scene": 3,
+      "batch": 1,
+      "duration": 10,
+      "spoken_english": "Half-buried in the wet soil was an antique copper radio, glowing with faint amber vacuum tubes.",
+      "roman_urdu": "Mitti mein aadhi dabi hui purani taanbay ki radio thi, jo halki amber roshni se chamak rahi thi.",
+      "visual_prompt": "3D animation, close-up of antique copper shortwave radio with glowing vacuum tubes in misty dark soil, eerie purple particles, 3D stylized Pixar and DreamWorks animation style, cinematic Octane render, Unreal Engine 5, volumetric fog, dramatic rim lighting, vibrant rich colors with dark atmospheric shadows, kid-friendly spooky sci-fi mystery aesthetic, photorealistic textures, 8k vertical portrait",
+      "mood": "Discovery"
+    },
+    {
+      "scene": 4,
+      "batch": 1,
+      "duration": 10,
+      "spoken_english": "Suhail reached down and brushed the cold dirt away. Suddenly, the dial spun by itself.",
+      "roman_urdu": "Suhail ne mitti saaf ki, to achanak radio ka knob khud ba khud ghoomne laga.",
+      "visual_prompt": "3D animation, Suhail in leather jacket kneeling down touching glowing copper radio, sudden electric spark, 3D stylized Pixar and DreamWorks animation style, cinematic Octane render, Unreal Engine 5, volumetric fog, dramatic rim lighting, vibrant rich colors with dark atmospheric shadows, kid-friendly spooky sci-fi mystery aesthetic, photorealistic textures, 8k vertical portrait",
+      "mood": "Shock"
+    },
+    {
+      "scene": 5,
+      "batch": 2,
+      "duration": 10,
+      "spoken_english": "Static hissed through the speaker, followed by a low, mechanical hum that made the pine needles vibrate.",
+      "roman_urdu": "Speaker se static ki aawaz aayi, aur zameen par paray darakht ke patte kaanpne lagay.",
+      "visual_prompt": "3D animation, radio speaker vibrating with soundwaves, pine needles floating slightly off the ground in misty fog, 3D stylized Pixar and DreamWorks animation style, cinematic Octane render, Unreal Engine 5, volumetric fog, dramatic rim lighting, vibrant rich colors with dark atmospheric shadows, kid-friendly spooky sci-fi mystery aesthetic, photorealistic textures, 8k vertical portrait",
+      "mood": "Tension"
+    },
+    {
+      "scene": 6,
+      "batch": 2,
+      "duration": 10,
+      "spoken_english": "Sophia checked her silver compass necklace. The needle was spinning furiously counterclockwise.",
+      "roman_urdu": "Sophia ne apna silver compass dekha, uski sui tezi se ulti simt ghoom rahi thi.",
+      "visual_prompt": "3D animation, close-up of Sophia holding her glowing silver compass necklace as the needle spins frantically, terrified expression, 3D stylized Pixar and DreamWorks animation style, cinematic Octane render, Unreal Engine 5, volumetric fog, dramatic rim lighting, vibrant rich colors with dark atmospheric shadows, kid-friendly spooky sci-fi mystery aesthetic, photorealistic textures, 8k vertical portrait",
+      "mood": "Alarm"
+    },
+    {
+      "scene": 7,
+      "batch": 2,
+      "duration": 10,
+      "spoken_english": "'Suhail, don't touch it,' she whispered. But the radio crackled and a distorted voice cut through.",
+      "roman_urdu": "'Suhail, isko haath mat lagao,' Sophia boli. Magar radio se aik ajeeb aawaz aane lagi.",
+      "visual_prompt": "3D animation, Sophia grabbing Suhail's arm in dark foggy forest, warning him with wide eyes, 3D stylized Pixar and DreamWorks animation style, cinematic Octane render, Unreal Engine 5, volumetric fog, dramatic rim lighting, vibrant rich colors with dark atmospheric shadows, kid-friendly spooky sci-fi mystery aesthetic, photorealistic textures, 8k vertical portrait",
+      "mood": "Suspense"
+    },
+    {
+      "scene": 8,
+      "batch": 2,
+      "duration": 10,
+      "spoken_english": "'Frequency ninety-four point seven,' the voice whispered. 'Do not look up at the sky.'",
+      "roman_urdu": "'Frequency 94.7,' aawaz ne kaha. 'Aasman ki taraf mat dekhna.'",
+      "visual_prompt": "3D animation, eerie glowing violet radio dial illuminated on 94.7 MHz, shadowy trees looming overhead, 3D stylized Pixar and DreamWorks animation style, cinematic Octane render, Unreal Engine 5, volumetric fog, dramatic rim lighting, vibrant rich colors with dark atmospheric shadows, kid-friendly spooky sci-fi mystery aesthetic, photorealistic textures, 8k vertical portrait",
+      "mood": "Chilling"
+    },
+    {
+      "scene": 9,
+      "batch": 3,
+      "duration": 10,
+      "spoken_english": "Both kids instantly looked up into the canopy of dark pines.",
+      "roman_urdu": "Dono bachon ne foran ooper ghane darakhton ki taraf dekha.",
+      "visual_prompt": "3D animation, low angle shot of Suhail and Sophia looking up in horror through pine treetops at the night sky, 3D stylized Pixar and DreamWorks animation style, cinematic Octane render, Unreal Engine 5, volumetric fog, dramatic rim lighting, vibrant rich colors with dark atmospheric shadows, kid-friendly spooky sci-fi mystery aesthetic, photorealistic textures, 8k vertical portrait",
+      "mood": "Climax Build"
+    },
+    {
+      "scene": 10,
+      "batch": 3,
+      "duration": 10,
+      "spoken_english": "The clouds were swirling in a glowing violet vortex, completely silent and impossible.",
+      "roman_urdu": "Badalon ke darmiyan aik baingani roshni ka bhanwar tezi se ghoom raha tha.",
+      "visual_prompt": "3D animation, cosmic violet rift swirl in dark night sky over misty pine forest, sci-fi anomaly, 3D stylized Pixar and DreamWorks animation style, cinematic Octane render, Unreal Engine 5, volumetric fog, dramatic rim lighting, vibrant rich colors with dark atmospheric shadows, kid-friendly spooky sci-fi mystery aesthetic, photorealistic textures, 8k vertical portrait",
+      "mood": "Sci-Fi Wonder"
+    },
+    {
+      "scene": 11,
+      "batch": 3,
+      "duration": 10,
+      "spoken_english": "The trees around them began to cast two shadows instead of one.",
+      "roman_urdu": "Unke gird darakhton ke aik ke bajaye do do saaye banne lage.",
+      "visual_prompt": "3D animation, ground view showing double shadows stretching unnaturally from pine trees, mysterious purple light, 3D stylized Pixar and DreamWorks animation style, cinematic Octane render, Unreal Engine 5, volumetric fog, dramatic rim lighting, vibrant rich colors with dark atmospheric shadows, kid-friendly spooky sci-fi mystery aesthetic, photorealistic textures, 8k vertical portrait",
+      "mood": "Uncanny"
+    },
+    {
+      "scene": 12,
+      "batch": 3,
+      "duration": 10,
+      "spoken_english": "'We need to run back to the town right now,' Sophia urged, gripping her compass tightly.",
+      "roman_urdu": "'Humein abhi wapas sheher bhagna hoga,' Sophia ne ghabra kar kaha.",
+      "visual_prompt": "3D animation, Sophia in green hoodie pulling Suhail to run, glowing rift light reflecting on their faces, 3D stylized Pixar and DreamWorks animation style, cinematic Octane render, Unreal Engine 5, volumetric fog, dramatic rim lighting, vibrant rich colors with dark atmospheric shadows, kid-friendly spooky sci-fi mystery aesthetic, photorealistic textures, 8k vertical portrait",
+      "mood": "Urgency"
+    },
+    {
+      "scene": 13,
+      "batch": 4,
+      "duration": 10,
+      "spoken_english": "Suhail grabbed the copper radio by its handle. It was burning cold like ice.",
+      "roman_urdu": "Suhail ne radio uthaya, to wo baraf ki tarah thandi thi.",
+      "visual_prompt": "3D animation, Suhail picking up the glowing antique radio, frost creeping along his leather sleeve, 3D stylized Pixar and DreamWorks animation style, cinematic Octane render, Unreal Engine 5, volumetric fog, dramatic rim lighting, vibrant rich colors with dark atmospheric shadows, kid-friendly spooky sci-fi mystery aesthetic, photorealistic textures, 8k vertical portrait",
+      "mood": "Action"
+    },
+    {
+      "scene": 14,
+      "batch": 14,
+      "duration": 10,
+      "spoken_english": "Suddenly, the radio speaker screamed: 'Suhail! Sophia! It has found your coordinates!'",
+      "roman_urdu": "Achanak radio se cheekh aayi: 'Suhail! Sophia! Usne tumhara pata dhoondh liya hai!'",
+      "visual_prompt": "3D animation, extreme close-up of radio tubes flaring bright magenta light, illuminating Suhail and Sophia's shocked faces, 3D stylized Pixar and DreamWorks animation style, cinematic Octane render, Unreal Engine 5, volumetric fog, dramatic rim lighting, vibrant rich colors with dark atmospheric shadows, kid-friendly spooky sci-fi mystery aesthetic, photorealistic textures, 8k vertical portrait",
+      "mood": "Peak Cliffhanger"
+    },
+    {
+      "scene": 15,
+      "batch": 4,
+      "duration": 10,
+      "spoken_english": "In the mist ahead, a towering shadowy silhouette stepped onto the forest path. Subscribe for Episode Two!",
+      "roman_urdu": "Dhundh ke beech aik azeem saaya raste par aa khara hua... Agli qist ke liye subscribe karein!",
+      "visual_prompt": "3D animation, wide cinematic shot of Suhail and Sophia facing a colossal shadowy silhouette with glowing eyes in foggy forest path, 3D stylized Pixar and DreamWorks animation style, cinematic Octane render, Unreal Engine 5, volumetric fog, dramatic rim lighting, vibrant rich colors with dark atmospheric shadows, kid-friendly spooky sci-fi mystery aesthetic, photorealistic textures, 8k vertical portrait",
+      "mood": "Ultimate Cliffhanger & CTA"
+    }
+  ]
+}
